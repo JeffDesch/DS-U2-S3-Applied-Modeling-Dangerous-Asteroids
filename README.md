@@ -1,1 +1,2 @@
-# DS-U2-S3-Applied-Modeling-Dangerous-Asteroids
+Applied Modeling: Dangerous Asteroids
+Notebook-based explorations of a greatly imbalanced dataset and high-precision model tuning
